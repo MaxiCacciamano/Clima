@@ -1,0 +1,19 @@
+.list-countries {
+    column-count: 4; /* Número de columnas */
+     column-gap: 20px; /*Espacio entre columnas */
+     max-width: 1280px;
+     margin: auto;
+  }
+.list-countries ul{
+    list-style-type: none;
+    border-radius: 10px;
+    text-align: left;
+    background-color:#454546;
+}
+.list-countries li {
+    margin-bottom: 10px; /* Espacio entre elementos de la lista */
+  }
+.butt{
+  max-width: 60%;
+  margin: auto;
+}
